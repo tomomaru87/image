@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "477025913435",
+    "project_id": "image-4f1b5",
+    "storage_bucket": "image-4f1b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477025913435:android:3e488e00eefa22fcc50d7e",
+        "android_client_info": {
+          "package_name": "com.sea.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477025913435-hee1o2u4m5gf7king0scetqkici4slpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLVzu1_RtyJxBLRVIyvOFcP7-AAr-XPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477025913435-hee1o2u4m5gf7king0scetqkici4slpr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477025913435-e3fijpas6o91kna2g2gpfd1sce39854a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sea.image"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
